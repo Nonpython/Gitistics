@@ -1,0 +1,2 @@
+You can run gitistics from the command line, specifing a path to a git repository or run it with out one, in which 
+case the program will open a folder select dialog.
